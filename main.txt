@@ -1,0 +1,140 @@
+
+
+<!DOCTYPE HTML>
+<html lang="eng">
+<head>
+<meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content=IE=edge"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<link rel="stylesheet" href="style.css"/>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+<script src="msg.js"></script>
+<script src="lyrics.js"></script>
+<script src="lyrics2.js"></script>
+<script src="lyrics3.js"></script>
+<title>MANGO WOMEN</title>
+</head>
+
+
+<body style="background-color:black;">
+<div class="container">
+
+</div>
+<div class="bouncing">
+<head>
+<p style="color:yellow;">MY MANGO WOMEN</p>
+</head>
+</div>
+
+<div class="marquee-container"><marquee behaviour="scroll" direction="left" class="marquee">
+Love you my Mango women and will always love your Mangoes<span style="color: yellow;font-size: 40px;">🥭🥭</span><span style="color: red;"> ❤️</span>
+</marquee>
+
+
+</body>
+
+
+<div class="content">
+
+<audio id="mySong" style="display:block">
+<source src="" type "audio/mp3">
+</audio>
+</div>
+
+<nav class="navbar">
+<div class="logo">∆•|√•|•π•®•~ </div>
+
+<img src= "https://github.com/ravmon1726/ravmon/blob/main/giphy.gif?raw=true" width="50px" height="50px">
+<ul class="nav-links">
+
+<div class="menu">
+<li><a href="https://github.com/ravmon1726/ravmon/blob/main/home.txt" target="_blank" onClick="window.open(this.href, 'home', 'width=document.documentElement.scrollWidth,height=document.documentElement.clientHeight'); return false;">Home</a></li>
+<li class="songs">
+<a href="#">Songs</a>
+<ul class="dropdown">
+
+<li><a href="" class ="song-link" data-lyrics="song1">Heart is on</a></li>
+
+<li><a href="" class ="song-link" data-lyrics="song2" >Waiting for that night</a></li>
+
+<li><a href="" class ="song-link" data-lyrics="song3" >I love you</a></li>
+
+</ul>
+<li class="status">
+<a href="">Status</a>
+<ul class="dropdown">
+<li><a href="bhttps://github.com/ravmon1726/ravmon/tree/dfd41978a9daaefdaa8540fc542d7690c38a587b" target="_blank" onClick="window.open(this.href, 'status1', 'width=document.documentElement.scrollWidth,height=document.documentElement.clientHeight'); return false;">Busty Boobs</a></li>
+
+<li><a href="https://github.com/ravmon1726/ravmon/blob/main/darkesterotica.html" target="_blank" onClick="window.open(this.href, 'status1', 'width=document.documentElement.scrollWidth,height=document.documentElement.clientHeight'); return false;">Darkest Erotica</a></li>
+
+<li><a href="https://github.com/ravmon1726/ravmon/blob/main/pagebypage.html" target="_blank" onClick="window.open(this.href, 'status3', 'width=document.documentElement.scrollWidth,height=document.documentElement.clientHeight'); return false;">Page by Page</a></li>
+</ul>
+<li class="music">
+<a href="#">Music</a>
+<ul class="dropdown">
+<li><a href="" onclick="playAudio(this.href)">Heart is on</a></li>
+<li><a href="" onclick="playAudio(this.href)">Waiting for that night</a></li>
+<li><a href="" onclick="playAudio(this.href)">I love you</a></li>
+</ul>
+<li class="picture">
+<a href="#">Pictures</a>
+<ul class="dropdown">
+<li><a href=","'_blank' onClick="openImage(this.href)">PICTURE1</a></li>
+<li><a href=","'_blank' onClick="openImage(this.href)">PICTURE2</a></li>
+<li><a href=","'_blank' onClick="openImage(this.href)">PICTURE3</a></li>
+</ul>
+
+
+<li><a href="talk.html">Chat</a></li>
+
+
+<li><a href="https://github.com/ravmon1726/ravmon/blob/main/contact.txt"  target="_blank" onClick="window.open(this.href, 'Contact', 'width=document.documentElement.scrollWidth,height=document.documentElement.clientHeight'); return false;">Contact</a></li>
+<li><a href="https://github.com/ravmon1726/ravmon/blob/main/about.txt"  target="_blank" onClick="window.open(this.href, 'Contact', 'width=document.documentElement.scrollWidth,height=document.documentElement.clientHeight'); return false;">About</a></li>
+
+ 
+<img src="" width="50px" height="50px">
+
+ 
+</li>
+</div>
+</ul>
+
+</nav>
+<div style="display: inline-block; margin-top: 10px;">
+
+<p>Welcome</p>
+ <p>My</p>
+<h2>MANGO</h2>
+<p> Women!</p>
+    <p>My hottie beautiful girl</p>
+<p>The best thing about me is YOU</p>
+<p>And I crave to be known by only one name YOURS</p>
+<br><p>Love you till infinity</p></br>
+
+<button class="music-button" onclick="window.location.href='https://drive.google.com/file/d/1chCAJGNTcohb-LsKZQgPJ6CDkY0Ooczg/view?usp=drive_link'">Click to listen my message</button>
+<button class="music-button1" onclick="window.location.href=''">Click to listen my message</button>
+</div>
+
+<div style="text-align:center;"><img src="https://github.com/ravmon1726/ravmon/blob/main/rm.gif?raw=true"  style = "width:800px; height:350px;">
+</div>
+
+<div class="container1">
+<main class="content1">
+</main>
+</div>
+<footer class="footer">
+<div class="social-icons">
+<p> Follow  me  on</p>
+<a href="https://www.facebook.com/"  target="_blank">
+<img src="fb.png" alt="Facebook">
+<a href="https://wa.me/?/"  target="_blank">
+<img src="whatsapp.jpg" alt="Whatapp">
+</a>
+</div>
+
+<p  style="text-align:center;">&copy;2023 Ravi.All rights reserved.</p>
+</footer>
+
+</body>
+ 
+</html>
